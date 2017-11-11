@@ -29,7 +29,7 @@
         } else if (compGuess != event.key) {
             losses++;
             guessesLeft--;
-    //prints guessed letters
+    //Prints Guessed Letters
 
             
     //PRINTS RESULTS OF IF STATEMENTS TO HTML #game <div>
